@@ -1,0 +1,40 @@
+# ==========================================
+# Elixir / Erlang
+# ==========================================
+
+# Dependências instaladas pelo Mix
+**/deps/
+
+# Arquivos gerados durante a compilação
+**/_build/
+
+# Arquivos de cobertura de testes
+**/cover/
+
+# Arquivos compilados do Erlang
+*.beam
+
+# Arquivos temporários de crash do Erlang
+erl_crash.dump
+
+# ==========================================
+# macOS
+# ==========================================
+
+# Arquivos de metadados do Finder
+.DS_Store
+
+# ==========================================
+# VS Code
+# ==========================================
+
+# Configurações locais do editor
+.vscode/
+
+# ==========================================
+# Arquivos temporários
+# ==========================================
+
+*.log
+*.tmp
+*~
